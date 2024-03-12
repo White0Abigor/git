@@ -1,2 +1,7 @@
 Hello world
+<<<<<<< HEAD
 
+=======
+hello world
+hello Bob
+>>>>>>> newB
