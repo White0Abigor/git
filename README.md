@@ -194,6 +194,14 @@
     + `$ git commit -m "новый файл в новой ветке"`
     + `$ git push origin newb3`
     + `$ git pull origin newb3:newB`
+
+
+![image](https://github.com/White0Abigor/git/assets/127473122/8e6eded5-1e8b-4e58-98a8-c5a6d5b97b2a)
+
 ### Клонируем репазиторий
   * `$ git clone https://github.com/White0Abigor/git.git`
+
+
+![image](https://github.com/White0Abigor/git/assets/127473122/6e08873b-6bfc-4ece-8b2c-d020c1fcb949)
+
    
