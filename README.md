@@ -60,7 +60,8 @@
 
   * `$ git log` - просмотр коммитов
 
-![image](https://github.com/White0Abigor/git/assets/127473122/2f1b066a-2f05-4434-9850-173c900aa803)
+![2024-03-13_20-35-54](https://github.com/White0Abigor/git/assets/127473122/d9009d0b-06d1-46c1-b660-ff38592a6e14)
+
 
 ### Посмотрим изменения в файле по сравнению с последним коммитом
 
@@ -82,7 +83,8 @@
 
   * `$ git branch` - открывает древо веток и показывает на какой вы находитесь
 
-![image](https://github.com/White0Abigor/git/assets/127473122/8c166e6e-f897-4fc4-855c-700e654148a8)
+![2024-03-13_20-21-44](https://github.com/White0Abigor/git/assets/127473122/424569f7-56e1-4a24-9585-1862343d2057)
+
 
 ### Создадим новую ветку 
 
@@ -94,13 +96,15 @@
 
   * `$ git checkout newB` - переключает на выбранную ветку
 
-![image](https://github.com/White0Abigor/git/assets/127473122/5a915e60-cdb1-43aa-967f-785b93881a03)
+![image](https://github.com/White0Abigor/git/assets/127473122/20214594-86d5-4537-a2a8-5bbda0890d55)
+
 
 ### Создим новую ветку и сразу же переключимся на нее
 
   * `$ git checkout -b newB2` - переключат на только что созданную  ветку
 
-![image](https://github.com/White0Abigor/git/assets/127473122/93228904-7036-486b-a451-f625f788e01e)
+![2024-03-13_20-31-26](https://github.com/White0Abigor/git/assets/127473122/4d4e6132-ea3a-419c-9047-2388dc3404e4)
+
 
 ### Удалим ветку 
 
